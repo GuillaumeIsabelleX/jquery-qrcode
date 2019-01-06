@@ -1,3 +1,9 @@
+
+# @v QR code into the UI
+
+
+
+
 # jquery.qrcode.js
 
 <a href='http://jeromeetienne.github.com/jquery-qrcode'>jquery.qrcode.js</a>
